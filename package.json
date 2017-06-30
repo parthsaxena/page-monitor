@@ -1,0 +1,16 @@
+{
+  "name": "parth",
+  "version": "1.0.0",
+  "description": "Page Monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parth Saxena",
+  "license": "ISC",
+  "dependencies": {
+    "after-load": "^1.0.4",
+    "node-notifier": "^5.1.2",
+    "nodemailer": "^4.0.1"
+  }
+}
